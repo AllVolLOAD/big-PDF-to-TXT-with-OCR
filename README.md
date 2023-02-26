@@ -1,6 +1,6 @@
 # big-PDF-to-TXT-with-OCR
 
-## for WINDOWS, read full/part of ur pdf, with tesseract ocr and write in txt file  
+## for WINDOWS, read full/part of ur pdf, with tesseract ocr and write in txt
 
 ### INSTALL tesseract engine :
 
@@ -23,7 +23,7 @@
  ```
  
     
-  Look zone after import and adapt to yourself
+import libralies and adapt to yourself
     
     
     
